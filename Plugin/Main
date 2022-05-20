@@ -1,4 +1,4 @@
----== Please Don't Steal Made By NoOneLikesHashtags ==---
+---== https://github.com/JunkPirate/Scratch-Roblox ==---
 ---== V1.0 ==---
 local toolbar = plugin:CreateToolbar("RoScratch")
 local EpicoDefender = script.Parent.Images.Icon.Image
