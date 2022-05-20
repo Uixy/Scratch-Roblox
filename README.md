@@ -10,7 +10,7 @@ A scratch-like coding system for Roblox [CURRENTLY IN DEVELOPMENT CONTRIBUTION W
 ![alt text](https://i.imgur.com/hU17llL.png)
 
 # Installation
-Currently not done enough for a public installation to be currently avalaible consider commiting to help us get to a state were we can release Scratch-Roblox to the public soon.
+Currently not done enough for a public installation to be currently available, consider commiting to help us get to a state were we can release Scratch-Roblox to the public soon.
 
 
 
